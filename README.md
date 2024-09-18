@@ -1,4 +1,4 @@
-##Amazon Clone Project
+
 An Amazon clone created using HTML and CSS. This project replicates 
 the core layout and design elements of the Amazon homepage, 
 showcasing product listings, a navigation menu, and a user-friendly interface.
